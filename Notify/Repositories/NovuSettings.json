@@ -1,0 +1,118 @@
+[
+  {
+    "SponserID": "ah",
+    "APIKeyEncryption": "U7dH+julfGiAv+jI86Z2Bjo9E5Uvf333Zu53f3IdThJZCE+mEQ8dlCJfYCu7pMst",
+    "Workflows": [
+      {
+        "FlowId": "648accfbd4fc33b37648be91",
+        "FlowName": "BPI-Initial-Login",
+        "FlowTriggerID": "bpi-initial-login"
+      },
+      {
+        "FlowId": "648ace03d4fc33b37648c1ad",
+        "FlowName": "BPI-Enabling-OTP-via-Push-Notification",
+        "FlowTriggerID": "bpi-enabling-otp-via-push-notification"
+      },
+      {
+        "FlowId": "648acef4d4fc33b37648c62f",
+        "FlowName": "BPI-Activating-Fingerprint",
+        "FlowTriggerID": "bpi-activating-fingerprint"
+      },
+      {
+        "FlowId": "648acfc6d4fc33b37648c9ab",
+        "FlowName": "BPI-Successful-Password-Change",
+        "FlowTriggerID": "bpi-successful-password-change"
+      },
+      {
+        "FlowId": "648ad09ad4fc33b37648cc65",
+        "FlowName": "BPI-Successful-Trading-PIN-Change",
+        "FlowTriggerID": "bpi-successful-trading-pin-change"
+      },
+      {
+        "FlowId": "646c3aa8d4fc33b3764766b2",
+        "FlowName": "Email_ResetPwdPin",
+        "FlowTriggerID": "emailresetpwdpin"
+      },
+      {
+        "FlowId": "646c3a9cd4fc33b376476643",
+        "FlowName": "Email_ResetPin",
+        "FlowTriggerID": "emailresetpin"
+      },
+      {
+        "FlowId": "646c3a93d4fc33b3764765c6",
+        "FlowName": "Email_ResetPwd",
+        "FlowTriggerID": "emailresetpwd"
+      },
+      {
+        "FlowId": "646c3a88d4fc33b376476543",
+        "FlowName": "Email_ChgPin",
+        "FlowTriggerID": "emailchgpin"
+      },
+      {
+        "FlowId": "646c3a7fd4fc33b3764764c0",
+        "FlowName": "Email_ChgPwd",
+        "FlowTriggerID": "emailchgpwd"
+      },
+      {
+        "FlowId": "646c3a74d4fc33b37647642d",
+        "FlowName": "Email_ForgotPIN",
+        "FlowTriggerID": "emailforgotpin"
+      },
+      {
+        "FlowId": "646c3a42d4fc33b376476389",
+        "FlowName": "Email_ForgotPwd",
+        "FlowTriggerID": "emailforgotpwd"
+      },
+      {
+        "FlowId": "646c3a39d4fc33b3764762d3",
+        "FlowName": "Email_BioMetricActivation",
+        "FlowTriggerID": "emailbiometricactivation"
+      },
+      {
+        "FlowId": "646c3a2cd4fc33b376476223",
+        "FlowName": "Email_InitialLogin",
+        "FlowTriggerID": "emailinitiallogin"
+      },
+      {
+        "FlowId": "646c39f6d4fc33b37647619c",
+        "FlowName": "SMSOTP_ChallengeOTP",
+        "FlowTriggerID": "smsotpchallengeotp"
+      },
+      {
+        "FlowId": "6465d623d4fc33b376474d3b",
+        "FlowName": "Taha.babi",
+        "FlowTriggerID": "tahababi"
+      },
+      {
+        "FlowId": "645f34cdd4fc33b376472b9a",
+        "FlowName": "bpismsemail",
+        "FlowTriggerID": "bpismsemail"
+      },
+      {
+        "FlowId": "645f0ff6d4fc33b37647296c",
+        "FlowName": "Untitled",
+        "FlowTriggerID": "untitled"
+      },
+      {
+        "FlowId": "645f08b4d4fc33b3764723e2",
+        "FlowName": "bpiemail",
+        "FlowTriggerID": "bpiemail"
+      },
+      {
+        "FlowId": "645de319d4fc33b376471b2e",
+        "FlowName": "bpisms",
+        "FlowTriggerID": "bpisms"
+      },
+      {
+        "FlowId": "645db783d4fc33b376471174",
+        "FlowName": "smsNot",
+        "FlowTriggerID": "smsnot"
+      },
+      {
+        "FlowId": "645b6db6d4fc33b376471018",
+        "FlowName": "Digest Workflow Example",
+        "FlowTriggerID": "digest-workflow-example"
+      }
+    ]
+  }
+]
